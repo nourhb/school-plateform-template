@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --text-text-regular-1: Poppins;
+  --text-text-2-semi-bold: Cairo;
+  --font-dm-sans: "DM Sans";
+
+  /* font sizes */
+  --text-text-regular-1-size: 18px;
+  --text-text-regular-2-size: 14px;
+  --heading-heading-1-size: 36px;
+  --font-size-9xl: 28px;
+  --display-display-4-size: 49px;
+  --heading-heading-3-size: 24px;
+  --heading-heading-2-size: 40px;
+  --heading-heading-11-size: 48px;
+  --font-size-xs: 12px;
+  --button-button-lg-size: 16px;
+  --heading-heading-21-size: 32px;
+
+  /* Colors */
+  --color-background: #f3f4ff;
+  --color-gray-3: #a098ae;
+  --color-white: #fff;
+  --color-purple: #4d44b5;
+  --linear-transparent-purple-10: rgba(77, 68, 181, 0.1);
+  --color-main: #363b64;
+  --color-text: #303972;
+  --color-gray1: #f5f5f5;
+  --color-white2: #fcfcfc;
+  --color-black: #000;
+  --color-red: #ff4550;
+  --color-green: #4cbc9a;
+  --color-yellow: #fcc43e;
+  --color-orange: #fb7d5b;
+  --color-gray-2: #c1bbeb;
+  --color-gray-21: #dbdbdb;
+
+  /* Gaps */
+  --gap-base: 16px;
+  --gap-29xl: 48px;
+  --gap-13xl: 32px;
+  --gap-5xl: 24px;
+  --gap-5xs: 8px;
+  --gap-sm: 14px;
+  --gap-9xs: 4px;
+  --gap-4xs: 9px;
+
+  /* Paddings */
+  --padding-11xs: 2px;
+  --padding-13xl: 32px;
+  --padding-4xl: 23px;
+  --padding-base: 16px;
+  --padding-24xl: 43px;
+  --padding-3xs: 10px;
+  --padding-5xl: 24px;
+  --padding-9xs: 4px;
+  --padding-5xs: 8px;
+  --padding-4xs: 9px;
+  --padding-lgi: 19px;
+  --padding-7xl: 26px;
+  --padding-2xs: 11px;
+
+  /* Border radiuses */
+  --br-21xl: 40px;
+  --br-3xl: 22px;
+  --br-mini: 15px;
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+  --br-sm: 14px;
+  --br-9xs: 4px;
+  --br-xl: 20px;
+  --br-base: 16px;
+  --br-lg: 18px;
+  --br-12xs: 1px;
+  --br-81xl: 100px;
+  --br-61xl: 80px;
+  --br-7xs: 6px;
+
+  /* Effects */
+  --shadow: 0px 20px 50px rgba(191, 21, 108, 0.05);
+}
